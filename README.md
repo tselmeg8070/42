@@ -17,7 +17,7 @@ After working for 2 years in my last company I decided enroll 42 school which lo
 | FDF | 2D map to 3D landscape representation | geometry, graphics, c| [fdf/][PlGd] |
 | Philo | Parallel computing using famous example |threads, mutex, c| [philo/][PlGh] |
 | Minishell | Builded my own shell |shell script, pipe, c| [minishell/][PlDb] |
-| Cub3d | Creating game with raycasting method |raycast, graphics, c| [cub3d/][PlMe] |
+| Cub3d | Creating game with raycasting method |raycasting, graphics, c| [cub3d/][PlMe] |
 
 ## Experience
 First few months were challenging for me due to new environment but after spending more time at school my life completely changed thanks to fellow students and bocals.
